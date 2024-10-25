@@ -1,0 +1,16 @@
+[
+  {
+    "title": "fanta soda",
+    "quantity": "2l",
+    "unitprice": "ksh 210",
+    "createdAt": "2024-10-21T07:55:13.382Z",
+    "lastupdateAt": "2024-10-21T07:55:13.382Z"
+  },
+  {
+    "title": "flour",
+    "quantity": "4kg",
+    "unitprice": "ksh 400",
+    "createdAt": "2024-10-21T10:20:13.498Z",
+    "lastupdateAt": "2024-10-21T10:20:13.498Z"
+  }
+]
